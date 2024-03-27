@@ -12,7 +12,7 @@
 - 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **Chitsanucha4@gmail.com**
-- my colab ** https://drive.google.com/drive/folders/1iyyEpuaUWBYK7q2D7u6vAJkbCc3MThji?usp=share_link 
+- my google colab  https://drive.google.com/drive/folders/1iyyEpuaUWBYK7q2D7u6vAJkbCc3MThji?usp=share_link 
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAF48LMSUmA/Cuuo7_oR5OB6X3Lgu5mU6A/edit?utm_content=DAF48LMSUmA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAF48LMSUmA/Cuuo7_oR5OB6X3Lgu5mU6A/edit?utm_content=DAF48LMSUmA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
