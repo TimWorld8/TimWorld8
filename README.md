@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tim Chitsanucha Akkarakuphicha</h1>
-<h3 align="center">I looking for Co-operative Education in AI Engineer</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timworld8&label=Profile%20views&color=0e75b6&style=plastic" alt="timworld8" /> </p>
 
