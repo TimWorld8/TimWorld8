@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **Machine Learning and Deep learning**
 
-- 👨‍💻 All of my projects are available at [https://friendlyimports.com](https://friendlyimports.com)
 
 - 💬 Ask me about **Machine Learning**
 
